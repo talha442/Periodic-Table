@@ -1,0 +1,62 @@
+body{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+table{
+    border: none
+}
+
+th{
+    font-size: 30px;
+}
+
+.h1{
+    background-color:#FFF95D;
+}
+
+tr{
+    border: 2px black solid;
+}
+
+.removeborder{
+    border: none;
+}
+
+.pink{
+    background-color: #DDA0DD;
+}
+
+.orange{
+    background-color: #FF9966;
+}
+
+.yelloworange{
+    background-color:#C79810;
+}
+
+.yellowish{
+    background-color: #FFF28E;
+}
+
+.green{
+    background-color: #CDEB8B;
+}
+
+.brown{
+    background-color: #EBDCA9;
+}
+
+.blue{
+    background-color: #90C7FF;
+}
+
+.grey{
+    background-color: #E6E6FA;
+}
+
+.lightpink{
+    background-color: #FCEFF0;
+}
